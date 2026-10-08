@@ -1,0 +1,9 @@
+{
+  "name": "Hipercare",
+  "url": "https://hipercare.github.io",
+  "repository": "https://github.com/hipercare/hipercare.github.io",
+  "contact": "https://github.com/hipercare/hipercare.github.io/issues/new?template=collaborate.yml",
+  "library": "https://github.com/hiperhealth/hiperhealth",
+  "libraryDocs": "https://hiperhealth.github.io/hiperhealth/",
+  "description": "Building toward quality healthcare within everyone's reach. Discover Hipercare's vision for thoughtful clinical technology, open foundations, and wider access to care."
+}

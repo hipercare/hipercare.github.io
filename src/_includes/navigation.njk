@@ -1,0 +1,5 @@
+{% macro navigationLinks(items, current) %}
+{% for item in items %}
+<a href="{{ item.url }}"{% if current == item.url %} aria-current="page"{% endif %}>{{ item.label }}{% if loop.last %}<span aria-hidden="true">↗</span>{% endif %}</a>
+{% endfor %}
+{% endmacro %}

@@ -1,0 +1,11 @@
+{% from "navigation.njk" import navigationLinks %}
+<header class="site-header">
+  <div class="header-inner wrap">
+    <a href="/" class="brand" aria-label="Hipercare home">
+      <img src="/images/logo/symbol-blue.svg" width="42" height="42" alt="">
+      <span>hipercare<span class="brand-period">.</span></span>
+    </a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" hidden>Menu <span aria-hidden="true">+</span></button>
+    <nav id="primary-nav" aria-label="Main navigation">{{ navigationLinks(navigation, page.url) }}</nav>
+  </div>
+</header>

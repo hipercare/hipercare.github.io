@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Static website build and local planning
+node_modules/
+_site/
+PLAN.md
+.DS_Store
