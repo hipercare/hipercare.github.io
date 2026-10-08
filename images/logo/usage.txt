@@ -1,0 +1,19 @@
+HIPERCARE — LOGO KIT
+
+Use the symbol, horizontal wordmark, or padded avatar provided.
+Keep the original proportions and leave at least one stem-width of clear space.
+Minimum recommended display size: symbol 24 px; wordmark 140 px wide.
+Use blue or black on light backgrounds, and white on dark backgrounds.
+Do not stretch, rotate, add effects, recolor, or place on a busy background.
+
+Palette: access blue #2458E6; deep ink #162C32; warm white #F7F8F2.
+Supporting colors: pale green #E1EADE; soft lime #D5E89B; warm coral #EAAA90.
+Typography: Manrope, licensed under the SIL Open Font License.
+Wordmark lettering is outlined in vector files; no font installation is needed.
+
+SVG and PDF: scalable vectors. PNG and WebP: transparent where appropriate.
+JPG: opaque exports for social media. ICO: 16, 32, and 48 px favicon.
+Avatars have safe padding for circular crops. Always check platform previews.
+
+This mark identifies Hipercare. Do not imply an unagreed endorsement,
+partnership, clinical certification, or approval.

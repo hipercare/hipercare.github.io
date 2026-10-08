@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Open foundations for a connected care experience · Hipercare</title>
+  <meta name="description" content="Explore HiperHealth, the open-source library behind Hipercare&#39;s vision, and our plans for specialty skills, patient records, medication checks, and preventive insights.">
+  <meta name="theme-color" content="#2458e6">
+  <link rel="canonical" href="https://hipercare.github.io/technology/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Hipercare">
+  <meta property="og:title" content="Open foundations for a connected care experience · Hipercare">
+  <meta property="og:description" content="Explore HiperHealth, the open-source library behind Hipercare&#39;s vision, and our plans for specialty skills, patient records, medication checks, and preventive insights.">
+  <meta property="og:url" content="https://hipercare.github.io/technology/">
+  <meta property="og:image" content="https://hipercare.github.io/images/logo/social-card.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Hipercare. Better care. Within reach.">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/assets/favicon.ico" sizes="16x16 32x32 48x48">
+  <link rel="apple-touch-icon" href="/images/logo/apple-touch-icon.png">
+  <link rel="preload" href="/assets/manrope-400.woff" as="font" type="font/woff" crossorigin>
+  <link rel="preload" href="/assets/manrope-600.woff" as="font" type="font/woff" crossorigin>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+
+<body class="interior">
+  <a class="skip-link" href="#main">Skip to content</a>
+  
+<header class="site-header">
+  <div class="header-inner wrap">
+    <a href="/" class="brand" aria-label="Hipercare home">
+      <img src="/images/logo/symbol-blue.svg" width="42" height="42" alt="">
+      <span>hipercare<span class="brand-period">.</span></span>
+    </a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" hidden>Menu <span aria-hidden="true">+</span></button>
+    <nav id="primary-nav" aria-label="Main navigation">
+
+<a href="/approach/">Our approach</a>
+
+<a href="/technology/" aria-current="page">The technology</a>
+
+<a href="/join/">Build with us<span aria-hidden="true">↗</span></a>
+
+</nav>
+  </div>
+</header>
+
+  <main id="main"><section class="page-hero wrap"><p class="eyebrow">The technology</p><h1>Built in pieces.<br><em>Connected by purpose.</em></h1><p class="page-intro">An adaptable clinical core, reusable open-source components, and a care experience designed around people.</p></section>
+
+<section class="section foundation-section"><div class="wrap foundation-grid"><div><p class="eyebrow">The open-source core</p><h2>Meet HiperHealth.</h2><p>HiperHealth is the computational library at the heart of the plan. Its public Python library provides composable clinical workflow stages and a plugin system for installable “skills.”</p><p>Rather than one fixed pipeline, the architecture lets developers compose and extend the workflow. The ambition is to bring in the specialty capabilities needed for a particular care setting.</p><div class="hero-actions"><a class="button button-light" href="https://github.com/hiperhealth/hiperhealth">Explore the source <span aria-hidden="true">↗</span></a><a class="text-link" href="https://hiperhealth.github.io/hiperhealth/">Read the documentation <span aria-hidden="true">↗</span></a></div></div><div class="code-portrait"><span class="graphic-label">Composable by design</span><div class="code-line">Screening <span>01</span></div><div class="code-line">Intake <span>02</span></div><div class="code-line">Diagnosis <span>03</span></div><div class="code-line">Examinations <span>04</span></div><div class="code-line">Treatment <span>05</span></div><div class="code-line">Prescription <span>06</span></div><p>Skills can extend one or more stages.<br>Clinical deployment requires evaluation.</p></div></div></section>
+
+<section class="section wrap"><div class="section-heading"><p class="eyebrow">Where we are</p><h2>An existing foundation.<br>A clear development agenda.</h2><p>The public library and the planned Hipercare service are at different stages. Here is the distinction.</p></div><div class="status-columns"><article><p class="pill">Documented in the library</p><h3>A core to build on</h3><ul class="feature-list"><li>Composable pipeline stages and installable skill plugins.</li><li>Persistent sessions that can resume as information arrives.</li><li>Checks for information required by a skill.</li><li>Built-in capabilities for diagnostic suggestions, report extraction, and de-identification.</li></ul><p class="small-note">Software functionality is not evidence of clinical effectiveness. See the <a href="https://github.com/hiperhealth/hiperhealth/blob/main/README.md">library’s current documentation</a> for scope and limitations.</p></article><article><p class="pill pill-outline">Planned for Hipercare</p><h3>A connected care experience</h3><ul class="feature-list"><li>Longitudinal patient records connected to the care pipeline.</li><li>Medication interaction checks to support clinician review.</li><li>Pathways that account for protocols, coverage, and patient circumstances.</li><li>Future-risk insights to support prevention, subject to research and validation.</li></ul><p class="small-note">These are development intentions, not a list of live or clinically validated services.</p></article></div></section>
+
+<section class="section soft-section"><div class="wrap split-section"><div><p class="eyebrow">Our open-source philosophy</p><h2>Share the foundations.<br>Build with intention.</h2></div><div class="prose"><p>Hipercare is planned as a proprietary service. Its philosophy is to break down the technology into small, useful open-source projects, then orchestrate them into a coherent experience.</p><p>That distinction matters: an open component can be studied and improved independently, while the complete service has its own product responsibilities.</p><p>HiperHealth is one of those foundations. We welcome contributors who care about clear interfaces, reproducible workflows, documentation, and useful building blocks.</p><a class="text-link" href="https://github.com/hiperhealth/hiperhealth">Contribute to HiperHealth <span aria-hidden="true">↗</span></a></div></div></section>
+
+<section class="section wrap"><div class="section-heading"><p class="eyebrow">Development priorities</p><h2>Trust has to be<br>part of the architecture.</h2></div><div class="principles"><article><span class="principle-number">01</span><h3>Clinical oversight</h3><p>Make recommendations reviewable, preserve uncertainty, and keep care decisions with qualified professionals.</p></article><article><span class="principle-number">02</span><h3>Responsible records</h3><p>Develop patient-record handling around appropriate access controls, consent, traceability, and data protection.</p></article><article><span class="principle-number">03</span><h3>Evaluation in context</h3><p>Assess components and workflows for the populations, specialties, and settings where they may be used.</p></article></div></section>
+<section class="invitation wrap" aria-labelledby="invitation-title">
+  <div><p class="eyebrow">A shared ambition</p><h2 id="invitation-title">A healthier future<br>takes all of us.</h2></div>
+  <div><p>We’re looking for clinicians, investors, sponsors, and collaborators who believe quality care should reach more people.</p><a class="button button-dark" href="/join/">Find your place in the mission <span aria-hidden="true">↗</span></a></div>
+</section>
+
+</main>
+  
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-top">
+      <a href="/" class="brand" aria-label="Hipercare home"><img src="/images/logo/symbol-blue.svg" width="42" height="42" alt=""><span>hipercare<span class="brand-period">.</span></span></a>
+      <p>Better care should be<br>within everyone’s reach.</p>
+      <nav aria-label="Footer navigation">
+
+<a href="/approach/">Our approach</a>
+
+<a href="/technology/" aria-current="page">The technology</a>
+
+<a href="/join/">Build with us<span aria-hidden="true">↗</span></a>
+
+</nav>
+    </div>
+    <div class="footer-bottom">
+      <p>An early-stage healthcare startup. Not yet a legally incorporated company.<br>This website introduces our vision; it does not offer medical advice or patient care.</p>
+      <div><a href="/images/logo/">Brand &amp; logo kit</a><a href="https://github.com/hipercare/hipercare.github.io">GitHub <span aria-hidden="true">↗</span></a></div>
+    </div>
+  </div>
+</footer>
+
+  <script src="/script.js" defer></script>
+</body>
+</html>
