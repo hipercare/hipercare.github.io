@@ -1,0 +1,14 @@
+{% from "navigation.njk" import navigationLinks %}
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-top">
+      <a href="/" class="brand" aria-label="Hipercare home"><img src="/images/logo/symbol-blue.svg" width="42" height="42" alt=""><span>hipercare<span class="brand-period">.</span></span></a>
+      <p>Better care should be<br>within everyone’s reach.</p>
+      <nav aria-label="Footer navigation">{{ navigationLinks(navigation, page.url) }}</nav>
+    </div>
+    <div class="footer-bottom">
+      <p>An early-stage healthcare startup. Not yet a legally incorporated company.<br>This website introduces our vision; it does not offer medical advice or patient care.</p>
+      <div><a href="/images/logo/">Brand &amp; logo kit</a><a href="{{ site.repository }}">GitHub <span aria-hidden="true">↗</span></a></div>
+    </div>
+  </div>
+</footer>

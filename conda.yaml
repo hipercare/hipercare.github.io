@@ -1,0 +1,8 @@
+name: hipercare-web
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - nodejs=24
+  - python=3.12
+  - pip

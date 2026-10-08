@@ -1,0 +1,31 @@
+name: Collaborate with Hipercare
+description: Introduce yourself and explore a way to support the mission.
+title: "Collaboration: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in Hipercare. This is a **public** conversation.
+        Please share only a non-confidential introduction. Do not include patient information,
+        medical records, private contact details, financial information, or sensitive documents.
+        Hipercare is an early-stage healthcare startup, not yet a legally incorporated company.
+  - type: dropdown
+    id: interest
+    attributes:
+      label: How would you like to get involved?
+      options:
+        - Clinical collaboration
+        - Investment conversation
+        - Sponsorship
+        - Research and access
+        - Open-source contribution
+        - Another way to help
+    validations:
+      required: true
+  - type: textarea
+    id: introduction
+    attributes:
+      label: A short introduction
+      description: Your perspective, area of interest, and what you would like to explore together.
+    validations:
+      required: true

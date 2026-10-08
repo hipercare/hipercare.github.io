@@ -1,0 +1,138 @@
+[
+  {
+    "slug": "symbol-blue",
+    "name": "Symbol / blue",
+    "description": "Transparent mark. 2048 \u00d7 2048 px raster; scalable vector.",
+    "width": 320,
+    "height": 320,
+    "formats": [
+      "svg",
+      "png",
+      "webp",
+      "pdf"
+    ],
+    "previewClass": ""
+  },
+  {
+    "slug": "symbol-black",
+    "name": "Symbol / black",
+    "description": "Transparent mark. 2048 \u00d7 2048 px raster; scalable vector.",
+    "width": 320,
+    "height": 320,
+    "formats": [
+      "svg",
+      "png",
+      "webp",
+      "pdf"
+    ],
+    "previewClass": "on-white"
+  },
+  {
+    "slug": "symbol-white",
+    "name": "Symbol / white",
+    "description": "Transparent mark. 2048 \u00d7 2048 px raster; scalable vector.",
+    "width": 320,
+    "height": 320,
+    "formats": [
+      "svg",
+      "png",
+      "webp",
+      "pdf"
+    ],
+    "previewClass": "on-dark"
+  },
+  {
+    "slug": "wordmark-color",
+    "name": "Wordmark / color",
+    "description": "Outlined lettering. 1920 \u00d7 480 px transparent raster.",
+    "width": 640,
+    "height": 160,
+    "formats": [
+      "svg",
+      "png",
+      "webp",
+      "pdf"
+    ],
+    "previewClass": ""
+  },
+  {
+    "slug": "wordmark-black",
+    "name": "Wordmark / black",
+    "description": "Outlined lettering. 1920 \u00d7 480 px transparent raster.",
+    "width": 640,
+    "height": 160,
+    "formats": [
+      "svg",
+      "png",
+      "webp",
+      "pdf"
+    ],
+    "previewClass": "on-white"
+  },
+  {
+    "slug": "wordmark-white",
+    "name": "Wordmark / white",
+    "description": "Outlined lettering. 1920 \u00d7 480 px transparent raster.",
+    "width": 640,
+    "height": 160,
+    "formats": [
+      "svg",
+      "png",
+      "webp",
+      "pdf"
+    ],
+    "previewClass": "on-dark"
+  },
+  {
+    "slug": "avatar-blue",
+    "name": "Avatar / blue",
+    "description": "1024 \u00d7 1024 px. Padded for square and circular profile crops.",
+    "width": 1024,
+    "height": 1024,
+    "formats": [
+      "svg",
+      "png",
+      "jpg"
+    ],
+    "previewClass": ""
+  },
+  {
+    "slug": "avatar-light",
+    "name": "Avatar / light",
+    "description": "1024 \u00d7 1024 px. Padded for square and circular profile crops.",
+    "width": 1024,
+    "height": 1024,
+    "formats": [
+      "svg",
+      "png",
+      "jpg"
+    ],
+    "previewClass": ""
+  },
+  {
+    "slug": "social-card",
+    "name": "Social card",
+    "description": "1200 \u00d7 630 px. Website previews and landscape social posts.",
+    "width": 1200,
+    "height": 630,
+    "formats": [
+      "svg",
+      "png",
+      "jpg"
+    ],
+    "previewClass": ""
+  },
+  {
+    "slug": "profile-cover",
+    "name": "Profile cover",
+    "description": "1584 \u00d7 396 px. A wide profile header; check platform cropping.",
+    "width": 1584,
+    "height": 396,
+    "formats": [
+      "svg",
+      "png",
+      "jpg"
+    ],
+    "previewClass": ""
+  }
+]

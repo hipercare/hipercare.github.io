@@ -1,0 +1,4 @@
+# Optional, only needed when regenerating the checked-in brand exports.
+CairoSVG==2.8.2
+fonttools==4.61.1
+Pillow==12.1.1
