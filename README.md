@@ -120,7 +120,7 @@ Hipercare's vision depends in part on reusable, openly developed technology. [Hi
 This website is developed and maintained through [SciStitch](https://scistitch.com/), working with the Hipercare initiative. We thank [Open Science Labs (OSL)](https://opensciencelabs.org/) for its institutional support, and everyone who contributes code, clinical and research perspectives, design, testing, ideas, or feedback. Your involvement helps shape both the open technology and the broader vision responsibly.
 
 <p>
-  <a href="https://scistitch.com/"><img src="https://scistitch.com/images/logo/wordmark-color.svg" alt="SciStitch" width="160"></a>
+  <a href="https://scistitch.com/"><img src="https://scistitch.com/images/logo/wordmark-color.svg" alt="SciStitch" width="160" style="background: #fff; border-radius: 6px; padding: 6px 8px;"></a>
   &nbsp;&nbsp;
-  <a href="https://opensciencelabs.org/"><img src="https://scistitch.com/assets/osl-logo.svg" alt="Open Science Labs" width="128"></a>
+  <a href="https://opensciencelabs.org/"><img src="https://scistitch.com/assets/osl-logo.svg" alt="Open Science Labs" width="128" style="background: #fff; border-radius: 6px; padding: 6px 8px;"></a>
 </p>
