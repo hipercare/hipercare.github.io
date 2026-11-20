@@ -5,6 +5,8 @@ toward quality care within everyone's reach. The site introduces the vision,
 technology foundations, and opportunities for clinical, research, investment,
 and sponsorship collaboration. Hipercare is not yet legally incorporated.
 
+**Website maintenance:** [SciStitch](https://scistitch.com).
+
 ## Develop locally
 
 Use Node.js 24 or newer (`.nvmrc` is provided):
