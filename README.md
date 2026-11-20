@@ -106,3 +106,21 @@ This website retains its BSD 3-Clause license. That license does not imply the
 planned Hipercare service is open source. The adapted SciStitch infrastructure's
 BSD notice is retained in `assets/scistitch-infrastructure-license.txt`. Manrope
 is distributed under the SIL Open Font License in `assets/manrope-license.txt`.
+
+## Support & Acknowledgments
+
+### Support the open-source foundation behind Hipercare
+
+Hipercare's vision depends in part on reusable, openly developed technology. [HiperHealth](https://github.com/hiperhealth/hiperhealth), the clinical workflow library behind that vision, needs sustained work on privacy, testing, documentation, and reliable software interfaces. You can help this independent open-source project progress, even while Hipercare itself remains an early-stage, not-yet-incorporated initiative.
+
+**[Support HiperHealth on Open Collective](https://opencollective.com/osl/projects/hiperhealth/donate?interval=month&amount=20&name=&legalName=&email=)**. Contributions go toward the HiperHealth open-source project; they are **not** investments in, or payments for, the planned proprietary Hipercare service.
+
+### Credits and thanks
+
+[SciStitch](https://scistitch.com/) leads development and maintenance of the Hipercare ecosystem, from its open-source technology foundations to work toward the planned Hipercare service. We thank [Open Science Labs (OSL)](https://opensciencelabs.org/) for its institutional support, and everyone who contributes code, clinical and research perspectives, design, testing, ideas, or feedback. Your involvement helps shape both the open technology and the broader vision responsibly.
+
+<p>
+  <a href="https://scistitch.com/"><img src="https://scistitch.com/images/logo/wordmark-color.svg" alt="SciStitch" width="160" style="background: #fff; border-radius: 6px; padding: 6px 8px;"></a>
+  &nbsp;&nbsp;
+  <a href="https://opensciencelabs.org/"><img src="https://scistitch.com/assets/osl-logo.svg" alt="Open Science Labs" width="128" style="background: #fff; border-radius: 6px; padding: 6px 8px;"></a>
+</p>
