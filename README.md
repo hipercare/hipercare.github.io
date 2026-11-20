@@ -117,7 +117,7 @@ Hipercare's vision depends in part on reusable, openly developed technology. [Hi
 
 ### Credits and thanks
 
-This website is developed and maintained through [SciStitch](https://scistitch.com/), working with the Hipercare initiative. We thank [Open Science Labs (OSL)](https://opensciencelabs.org/) for its institutional support, and everyone who contributes code, clinical and research perspectives, design, testing, ideas, or feedback. Your involvement helps shape both the open technology and the broader vision responsibly.
+[SciStitch](https://scistitch.com/) leads development and maintenance of the Hipercare ecosystem, from its open-source technology foundations to work toward the planned Hipercare service. We thank [Open Science Labs (OSL)](https://opensciencelabs.org/) for its institutional support, and everyone who contributes code, clinical and research perspectives, design, testing, ideas, or feedback. Your involvement helps shape both the open technology and the broader vision responsibly.
 
 <p>
   <a href="https://scistitch.com/"><img src="https://scistitch.com/images/logo/wordmark-color.svg" alt="SciStitch" width="160" style="background: #fff; border-radius: 6px; padding: 6px 8px;"></a>
